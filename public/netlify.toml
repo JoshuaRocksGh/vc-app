@@ -1,0 +1,4 @@
+[[redirects]]
+from="/*"
+to='/index.jsx'
+status=200
